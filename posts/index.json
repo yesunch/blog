@@ -1,10 +1,11 @@
 {
 	"articles": [{
-		"title": "welcome",
-		"date": "2020-1-10 22:07",
-		"summary": "my first blog",
+		"title": "纯手工打造前端后端分离项目中的mock-server",
+		"date": "2020-1-13 08:16",
+		"summary": "为了更好的分工合作，让前端能在不依赖后端环境的情况下进行开发，其中一种手段就是为前端开发者提供一个web容器，这个本地环境就是 mock-server 。本文主要介绍个人在项目开发中总结下来的一套相对好用的 mock 解决方案",
 		"tags": [
-			"mark"
+			"前端开发",
+			"webpack"
 		]
 	}]
   }
